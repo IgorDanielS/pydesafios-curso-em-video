@@ -1,5 +1,5 @@
 import os
-
+#
 player = {"nome": "Python","x": 0, "y":0}
 
 def andar(direcao):
